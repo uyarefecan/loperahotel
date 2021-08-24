@@ -1241,7 +1241,7 @@ ul.portfolio-image li .desc{
   line-height: 18px;
   top: -28px;
   right: -20px;
-  width: 40px;
+  width: 0px;
   height: 18px;
   color: #fff;
   text-align: center;
@@ -1256,7 +1256,6 @@ ul.portfolio-image li .desc{
   left: 50%;
   margin-left: -4px;
   top: 18px;
-  content: "";
   border-left: 4px solid transparent;
   border-right: 4px solid transparent;
 }
